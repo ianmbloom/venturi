@@ -1,0 +1,13 @@
+packages: ./
+          ../ghc/libraries/template-haskell
+          ../ghc/libraries/ghci
+          ../ghc/libraries/ghc-heap
+          ../ghc/libraries/ghc-boot-th
+          ../ghc/libraries/ghc-boot
+          ../ghc/libraries/ghc-prim
+          ../ghc/compiler
+          ../ghc/ghc
+
+
+
+jobs: 4
